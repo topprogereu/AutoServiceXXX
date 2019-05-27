@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b0286cb-71b2-4aee-a6df-061d75864250" name="Default Changelist" comment="Test commit">
-      <change beforePath="$PROJECT_DIR$/ParserInfoAboutAuto/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ParserInfoAboutAuto/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParserInfoAboutAuto/src/main/java/com/parser/program/pasha/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/ParserInfoAboutAuto/src/main/java/com/parser/program/pasha/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParserInfoAboutAuto/src/main/java/com/parser/program/pasha/config/JDBCConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/ParserInfoAboutAuto/src/main/java/com/parser/program/pasha/config/JDBCConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParserInfoAboutAuto/src/main/java/com/parser/program/pasha/controller/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ParserInfoAboutAuto/src/main/java/com/parser/program/pasha/controller/MainController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParserInfoAboutAuto/src/main/java/com/parser/program/pasha/model/AutoModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/ParserInfoAboutAuto/src/main/java/com/parser/program/pasha/model/AutoModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParserInfoAboutAuto/src/main/java/com/parser/program/pasha/model/UsersAccounts.java" beforeDir="false" afterPath="$PROJECT_DIR$/ParserInfoAboutAuto/src/main/java/com/parser/program/pasha/model/UsersAccounts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParserInfoAboutAuto/src/main/resources/static/TestJs.js" beforeDir="false" afterPath="$PROJECT_DIR$/ParserInfoAboutAuto/src/main/resources/static/TestJs.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParserInfoAboutAuto/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ParserInfoAboutAuto/src/main/resources/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParserInfoAboutAuto/src/main/resources/templates/menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/ParserInfoAboutAuto/src/main/resources/templates/menu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/ParserInfoAboutAuto/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -355,7 +347,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558964540987" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558964994188" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/ParserInfoAboutAuto/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -414,16 +406,15 @@
       <option name="presentableId" value="Default" />
       <updated>1558937692280</updated>
       <workItem from="1558937694716" duration="108000" />
-      <workItem from="1558937881851" duration="15843000" />
+      <workItem from="1558937881851" duration="16117000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15951000" />
+    <option name="totallyTimeSpent" value="16225000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Web" order="0" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="1" sideWeight="0.4939173" visible="true" weight="0.29425114" />
