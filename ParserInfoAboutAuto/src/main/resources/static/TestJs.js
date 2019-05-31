@@ -1,3 +1,4 @@
-$('.login1').click(function() {
-    window.location = 'www.example.com/index.php?id=' + this.id;
+$("#login123").click(function() {
+    alert("Hello");// $.get("http://localhost:8080/menu");
 });
+

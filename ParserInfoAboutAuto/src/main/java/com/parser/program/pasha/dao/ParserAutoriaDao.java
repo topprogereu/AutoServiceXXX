@@ -1,6 +1,6 @@
 package com.parser.program.pasha.dao;
 
-public interface myDao {
+public interface ParserAutoriaDao {
 
     public void getData();
 

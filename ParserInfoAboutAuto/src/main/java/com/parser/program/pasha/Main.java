@@ -11,7 +11,6 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 public class Main implements WebMvcConfigurer {
     public static void main(String[] args) {
         SpringApplication.run(Main.class, args);
-        System.out.println("Let's inspect the beans provided by Spring Boot:");
 
     }
     @Override
