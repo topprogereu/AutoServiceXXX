@@ -7,7 +7,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.List;
 
-public class MyMapper implements RowMapper {
+public class AutoriaMapper implements RowMapper {
 
     @Override
     public List<AutoModel> mapRow(ResultSet resultSet, int i) throws SQLException {
