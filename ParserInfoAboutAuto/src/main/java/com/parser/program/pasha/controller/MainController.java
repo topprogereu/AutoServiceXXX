@@ -14,7 +14,7 @@ public class MainController {
     @RequestMapping(value="/")
     public String showStartPage()
     {
-        System.out.println("ЛОЛ ?");
+
           return "index";
     }
 
@@ -26,12 +26,20 @@ public class MainController {
     }
 
 
-    @RequestMapping(value="/scan")
+    @RequestMapping(value="/parse_autoria")
     @ResponseBody
-    public String mainAutorizationMethod()
+    public String startedParseAutoria()
     {
-        System.out.println("Suda");
+
         return "Hi";
     }
+
+    @RequestMapping(value="/parse_rst")
+    @ResponseBody
+    public String startedParseRst()
+    {
+        return "Hi";
+    }
+
 
 }

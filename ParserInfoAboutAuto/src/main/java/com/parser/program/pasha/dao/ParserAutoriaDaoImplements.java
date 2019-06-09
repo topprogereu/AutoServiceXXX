@@ -1,6 +1,6 @@
 package com.parser.program.pasha.dao;
 
-import com.parser.program.pasha.mapper.MyMapper;
+import com.parser.program.pasha.mapper.AutoriaMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.context.annotation.Bean;
@@ -34,8 +34,8 @@ public class ParserAutoriaDaoImplements implements ParserAutoriaDao {
     public void getData() {
           JdbcTemplate j1 = getJdbcTemplateForAutoria();
           JdbcTemplate j2 = getJdbcTemplateForRst();
-        j1.query("select * from autoriadb.data", new MyMapper());
-        j2.query("select * from rstdb.data", new MyMapper());
+        j1.query("select * from autoriadb.data", new AutoriaMapper());
+        j2.query("select * from rstdb.data", new AutoriaMapper());
 
     }
 
@@ -44,8 +44,8 @@ public class ParserAutoriaDaoImplements implements ParserAutoriaDao {
 
         JdbcTemplate j1 = getJdbcTemplateForAutoria();
         JdbcTemplate j2 = getJdbcTemplateForRst();
-        j1.query("select * from autoriadb.data", new MyMapper());
-        j2.query("select * from rstdb.data", new MyMapper());
+        j1.query("select * from autoriadb.data", new AutoriaMapper());
+        j2.query("select * from rstdb.data", new AutoriaMapper());
 
     }
 }
