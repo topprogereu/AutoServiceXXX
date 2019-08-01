@@ -11,12 +11,13 @@ import org.springframework.web.bind.annotation.ResponseBody;
 @Controller
 public class MainController {
 
-    @RequestMapping(value="/")
-    public String showStartPage()
-    {
 
-          return "index";
-    }
+//    @RequestMapping(value="/")
+//    public String showStartPage()
+//    {
+//
+//          return "index";
+//    }
 
     @RequestMapping(value="/start_menu")
     public String showMainMenuIfUserEntrys()
@@ -39,6 +40,13 @@ public class MainController {
     public String startedParseRst()
     {
         return "Hi";
+    }
+
+
+    @RequestMapping(value="/scan")
+    public String startedScan()
+    {
+        return "scan";
     }
 
 

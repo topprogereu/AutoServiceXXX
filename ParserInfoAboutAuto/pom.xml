@@ -6,6 +6,7 @@
 
     <groupId>com.parser.program.pasha</groupId>
     <artifactId>ParserInfoAboutAuto</artifactId>
+<packaging>war</packaging>
     <version>1.0-SNAPSHOT</version>
 
 
